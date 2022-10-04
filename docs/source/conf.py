@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'XTU-postgraduate-recommendation'
-copyright = '2022, ASC_8384'
-author = 'ASC_8384'
+copyright = '2022, Students from School of Computer Science & School of Cyberspace Science, XTU'
+author = 'Students of School of Computer Science & School of Cyberspace Science, XTU'
 
 release = '0.1'
 version = '0.1.0'
