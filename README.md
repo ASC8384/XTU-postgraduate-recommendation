@@ -1,6 +1,6 @@
 # 湘潭大学保研攻略
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 WIP
@@ -42,10 +42,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center"><a href="https://ellenwong.github.io/about/"><img src="https://avatars.githubusercontent.com/u/35458803?v=4?s=100" width="100px;" alt="EllenWong"/><br /><sub><b>EllenWong</b></sub></a><br /><a href="#content-EllenWong" title="Content">🖋</a></td>
+      <td align="center"><a href="http://www.asc8384.top/"><img src="https://avatars.githubusercontent.com/u/29878345?v=4?s=100" width="100px;" alt="ASC_8384"/><br /><sub><b>ASC_8384</b></sub></a><br /><a href="#content-ASC8384" title="Content">🖋</a> <a href="https://github.com/ASC8384/XTU-postgraduate-recommendation/pulls?q=is%3Apr+reviewed-by%3AASC8384" title="Reviewed Pull Requests">👀</a> <a href="#ideas-ASC8384" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-ASC8384" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     </tr>
   </tbody>
   <tfoot>
-
+    
   </tfoot>
 </table>
 
