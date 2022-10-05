@@ -31,7 +31,9 @@ Fork 之后提交 PR。
 3. 在 `source` 目录下执行 `make html`
 4. 使用浏览器打开 `build/html/index.html`，即可预览已经产生的文档！
 
-## 贡献者
+## 贡献者✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -43,7 +45,7 @@ Fork 之后提交 PR。
     </tr>
   </tbody>
   <tfoot>
-    
+
   </tfoot>
 </table>
 
@@ -52,18 +54,8 @@ Fork 之后提交 PR。
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
 ## 其它
 
 感谢 [南大软院保研攻略](https://github.com/NJU-SE-15-share-review/postgraduate-recommendation) 提供的灵感。
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
