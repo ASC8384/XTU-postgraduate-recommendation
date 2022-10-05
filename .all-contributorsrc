@@ -14,6 +14,18 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "ASC8384",
+      "name": "ASC_8384",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29878345?v=4",
+      "profile": "http://www.asc8384.top/",
+      "contributions": [
+        "content",
+        "review",
+        "ideas",
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
