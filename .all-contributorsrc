@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "EllenWong",
+      "name": "EllenWong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35458803?v=4",
+      "profile": "https://ellenwong.github.io/about/",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "XTU-postgraduate-recommendation",
+  "projectOwner": "ASC8384"
+}
