@@ -26,6 +26,15 @@
         "ideas",
         "infra"
       ]
+    },
+    {
+      "login": "pc-mysql",
+      "name": "pc-mysql",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52450205?v=4",
+      "profile": "https://github.com/pc-mysql",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
