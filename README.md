@@ -9,7 +9,7 @@ WIP
 
 Fork 之后提交 PR。
 
-可以在 `docs/source` 目录下进行文档的编写。其中，`院校` 目录将学校名称作为子目录，学院名称作为子目录里的具体文件名，可以使用 Markdown 或者 [reStructuredText](http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) 进行撰写。但是学校名称的目录下必须建立 `index.rst`，内容如下：
+您可以在 `docs/source` 目录下进行文档的编写。其中，`院校` 目录将学校名称作为子目录，学院名称作为子目录里的具体文件名，如果写的是参加夏令营或预推免的经验，请开个小标题，加上自己的年级（譬如 19 级）。您可以使用 Markdown 或者 [reStructuredText](http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) 进行撰写。但是学校名称的目录下必须建立 `index.rst`，内容如下：
 
 ```
 学校名称
