@@ -1,6 +1,6 @@
 # 湘潭大学保研攻略
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 WIP
@@ -48,6 +48,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/pc-mysql"><img src="https://avatars.githubusercontent.com/u/52450205?v=4?s=100" width="100px;" alt="pc-mysql"/><br /><sub><b>pc-mysql</b></sub></a><br /><a href="#content-pc-mysql" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/wanghongyu2001"><img src="https://avatars.githubusercontent.com/u/114321093?v=4?s=100" width="100px;" alt="wanghongyu2001"/><br /><sub><b>wanghongyu2001</b></sub></a><br /><a href="#content-wanghongyu2001" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/litchimango"><img src="https://avatars.githubusercontent.com/u/59715401?v=4?s=100" width="100px;" alt="litchimango"/><br /><sub><b>litchimango</b></sub></a><br /><a href="#content-litchimango" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/fantasy-99"><img src="https://avatars.githubusercontent.com/u/56767204?v=4?s=100" width="100px;" alt="Hongbo Zhao"/><br /><sub><b>Hongbo Zhao</b></sub></a><br /><a href="#content-fantasy-99" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
