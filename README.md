@@ -1,6 +1,6 @@
 # 湘潭大学保研攻略
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 WIP
@@ -43,12 +43,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://ellenwong.github.io/about/"><img src="https://avatars.githubusercontent.com/u/35458803?v=4?s=100" width="100px;" alt="EllenWong"/><br /><sub><b>EllenWong</b></sub></a><br /><a href="#content-EllenWong" title="Content">🖋</a></td>
-      <td align="center"><a href="http://www.asc8384.top/"><img src="https://avatars.githubusercontent.com/u/29878345?v=4?s=100" width="100px;" alt="ASC_8384"/><br /><sub><b>ASC_8384</b></sub></a><br /><a href="#content-ASC8384" title="Content">🖋</a> <a href="https://github.com/ASC8384/XTU-postgraduate-recommendation/pulls?q=is%3Apr+reviewed-by%3AASC8384" title="Reviewed Pull Requests">👀</a> <a href="#ideas-ASC8384" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-ASC8384" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-      <td align="center"><a href="https://github.com/pc-mysql"><img src="https://avatars.githubusercontent.com/u/52450205?v=4?s=100" width="100px;" alt="pc-mysql"/><br /><sub><b>pc-mysql</b></sub></a><br /><a href="#content-pc-mysql" title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/wanghongyu2001"><img src="https://avatars.githubusercontent.com/u/114321093?v=4?s=100" width="100px;" alt="wanghongyu2001"/><br /><sub><b>wanghongyu2001</b></sub></a><br /><a href="#content-wanghongyu2001" title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/litchimango"><img src="https://avatars.githubusercontent.com/u/59715401?v=4?s=100" width="100px;" alt="litchimango"/><br /><sub><b>litchimango</b></sub></a><br /><a href="#content-litchimango" title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/fantasy-99"><img src="https://avatars.githubusercontent.com/u/56767204?v=4?s=100" width="100px;" alt="Hongbo Zhao"/><br /><sub><b>Hongbo Zhao</b></sub></a><br /><a href="#content-fantasy-99" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://ellenwong.github.io/about/"><img src="https://avatars.githubusercontent.com/u/35458803?v=4?s=100" width="100px;" alt="EllenWong"/><br /><sub><b>EllenWong</b></sub></a><br /><a href="#content-EllenWong" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.asc8384.top/"><img src="https://avatars.githubusercontent.com/u/29878345?v=4?s=100" width="100px;" alt="ASC_8384"/><br /><sub><b>ASC_8384</b></sub></a><br /><a href="#content-ASC8384" title="Content">🖋</a> <a href="https://github.com/ASC8384/XTU-postgraduate-recommendation/pulls?q=is%3Apr+reviewed-by%3AASC8384" title="Reviewed Pull Requests">👀</a> <a href="#ideas-ASC8384" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-ASC8384" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pc-mysql"><img src="https://avatars.githubusercontent.com/u/52450205?v=4?s=100" width="100px;" alt="pc-mysql"/><br /><sub><b>pc-mysql</b></sub></a><br /><a href="#content-pc-mysql" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/wanghongyu2001"><img src="https://avatars.githubusercontent.com/u/114321093?v=4?s=100" width="100px;" alt="wanghongyu2001"/><br /><sub><b>wanghongyu2001</b></sub></a><br /><a href="#content-wanghongyu2001" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/litchimango"><img src="https://avatars.githubusercontent.com/u/59715401?v=4?s=100" width="100px;" alt="litchimango"/><br /><sub><b>litchimango</b></sub></a><br /><a href="#content-litchimango" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fantasy-99"><img src="https://avatars.githubusercontent.com/u/56767204?v=4?s=100" width="100px;" alt="Hongbo Zhao"/><br /><sub><b>Hongbo Zhao</b></sub></a><br /><a href="#content-fantasy-99" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/javilia"><img src="https://avatars.githubusercontent.com/u/117897842?v=4?s=100" width="100px;" alt="javilia"/><br /><sub><b>javilia</b></sub></a><br /><a href="#content-javilia" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
